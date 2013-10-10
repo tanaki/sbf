@@ -1,4 +1,4 @@
 sbf
 ===
 
-Kinect game
+AIR/AS3 Kinect game
